@@ -22,4 +22,4 @@ npm install
 npm start# test
 
 
-hello there
+loom walkthrough.
